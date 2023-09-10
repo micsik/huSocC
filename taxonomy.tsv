@@ -1,0 +1,220 @@
+level1	level2	level3
+család		
+család	származás	
+család	családon belüli munkamegosztás	
+egészségügy		
+egészségügy	egészségügyi dolgozó	
+egészségügy	páciens	
+egészségügy	egészségügyi intézmény	
+egészségügy	egészségügyi ellátás	
+egészségügy	járvány	
+egyház		
+egyház	egyházi személy	
+egyház	egyházi intézmény	
+életesemény		
+életesemény	gyermekvállalás	
+életesemény	házasságkötés	
+életesemény	válás	
+életesemény	baleset	
+életesemény	öngyilkosság	
+életesemény	halálozás	
+életesemény	trauma	
+életkörülmények		
+életkörülmények	anyagi helyzet	
+életkörülmények	anyagi helyzet	szegénység
+életkörülmények	egészségi állapot	
+életkörülmények	egészségi állapot	betegség
+életkörülmények	egészségi állapot	szenvedélybetegség
+életkörülmények	egészségi állapot	lelki egészség
+életkörülmények	lakhatás	
+életkörülmények	lakhatás	hajléktalanság
+életkörülmények	táplálkozás	
+életkörülmények	sport	
+életkörülmények	mindennapi élet	
+életkörülmények	szabadidő	
+életkörülmények	jövőkép	
+életszakasz		
+életszakasz	gyermek és gyermekkor	
+életszakasz	fiatal és fiatalkor	
+életszakasz	idős és időskor	
+értékrendszer		
+értékrendszer	attitűd	
+értékrendszer	viselkedés	
+értékrendszer	identitás	
+értékrendszer	szexualitás	
+értékrendszer	ideológia	
+értékrendszer	vallás	
+értékrendszer	érzelem	
+értékrendszer	előítélet	
+értékrendszer	előítélet	antiszemitizmus
+értékrendszer	előítélet	cigányellenesség
+értékrendszer	előítélet	homofóbia
+értékrendszer	előítélet	rasszizmus
+értékrendszer	radikalizmus	
+gazdaság		
+gazdaság	gazdasági szervezet	
+gazdaság	gazdasági tevékenység	
+gazdaság	gazdasági tevékenység	ipar
+gazdaság	gazdasági tevékenység	kereskedelem
+gazdaság	gazdasági tevékenység	mezőgazdaság
+gazdaság	gazdasági tevékenység	szolgáltatás
+gazdaság	munkaerőpiac	
+gazdaság	fogyasztás	
+gazdaság	pénzügy és finanszírozás	
+gazdaság	gazdasági folyamat	privatizáció
+gazdaság	gazdasági folyamat	államosítás
+gazdaság	gazdasági folyamat	reform
+kommunikáció		
+kommunikáció	információ	
+kommunikáció	információ	elhallgatás
+kommunikáció	személyközi kommunikáció	
+kommunikáció	kommunikációs képesség	
+kommunikáció	kommunikációs képesség	írástudás
+kommunikáció	nyelvtudás és nyelvhasználat	
+kommunikáció	média	
+kommunikáció	média	internet
+kommunikáció	média	közösségi média
+kommunikáció	forrás	
+kommunikáció	forrás	dokumentum
+kommunikáció	forrás	emlékezés
+környezet		
+környezet	térbeli elhelyezkedés	
+környezet	térbeli elhelyezkedés	épített környezet
+környezet	térbeli elhelyezkedés	település
+környezet	térbeli elhelyezkedés	külföld
+környezet	térbeli elhelyezkedés	ország
+környezet	térbeli elhelyezkedés	régió
+környezet	térbeli elhelyezkedés	helyváltoztatás
+környezet	természeti környezet	
+környezet	természeti környezet	éghajlatváltozás
+környezet	természeti környezet	környezetszennyezés
+környezet	természeti környezet	állat
+környezet	természeti környezet	természeti katasztrófa
+kultúra		
+kultúra	közösségi és kulturális tér	
+kultúra	kulturális esemény	
+kultúra	alkotás	
+kultúra	művészet	
+kultúra	szokások és hagyományok	
+munka és foglalkoztatás		
+munka és foglalkoztatás	munkahely	
+munka és foglalkoztatás	munkavégzés	
+munka és foglalkoztatás	munkaviszony	
+munka és foglalkoztatás	fizetetlen munka	
+munka és foglalkoztatás	munkakörülmények	
+munka és foglalkoztatás	munkakörülmények	ingázás
+munka és foglalkoztatás	munkanélküliség	
+munka és foglalkoztatás	szakma	
+munka és foglalkoztatás	fizikai munkás	
+munka és foglalkoztatás	szellemi dolgozó	
+oktatás		
+oktatás	oktatási intézmény	
+oktatás	oktatásban résztvevő személy	
+oktatás	oktatásban résztvevő személy	pedagógus
+oktatás	oktatásban résztvevő személy	diák
+oktatás	oktatási esemény	
+oktatás	tanulás	
+oktatás	végzettség	
+oktatás	alap- és középfokú oktatás	
+oktatás	felsőoktatás	
+oktatás	képzés és szakképzés	
+politika		
+politika	politikai szereplő	
+politika	politikai szereplő	kormányzat
+politika	politikai szereplő	politikai párt
+politika	szakpolitika	
+politika	szakpolitika	társadalompolitika
+politika	nemzetközi politika	
+politika	politikai részvétel	
+politika	politikai rendszer	
+politika	politikai rendszer	demokrácia
+politika	politikai rendszer	diktatúra
+politika	politikai rendszer	kommunizmus
+jog		
+jog	emberi jogok	
+jog	nemzetközi jog	
+jog	jogszabály és szabályzat 	
+jog	jogsértés és bűnelkövetés	
+jog	jogsértés és bűnelkövetés	korrupció
+jog	jogsértés és bűnelkövetés	prostitúció
+jog	emberiesség elleni bűncselekmény	
+jog	emberiesség elleni bűncselekmény	kitelepítés
+jog	emberiesség elleni bűncselekmény	deportálás
+jog	emberiesség elleni bűncselekmény	jogfosztás
+jog	emberiesség elleni bűncselekmény	népirtás
+jog	jogérvényesítés	
+jog	jogérvényesítés	kárpótlás
+jog	igazságszolgáltatás	
+jog	igazságszolgáltatás	büntetés
+jog	igazságszolgáltatás	börtön
+jog	fegyveres erők	
+intézmény és szervezet		
+intézmény és szervezet	állami intézmény és szervezet	
+intézmény és szervezet	közigazgatás	
+intézmény és szervezet	közigazgatás	állam és állami igazgatás
+intézmény és szervezet	közigazgatás	önkormányzat és helyi igazgatás
+intézmény és szervezet	nem állami intézmény és szervezet	
+intézmény és szervezet	nem állami intézmény és szervezet	érdekképviselet
+intézmény és szervezet	nem állami intézmény és szervezet	civil szervezet
+intézmény és szervezet	vezetés (szervezet)	
+intézmény és szervezet	döntéshozatal	
+társadalmi csoport		
+társadalmi csoport	nem és gender	
+társadalmi csoport	kisebbség	
+társadalmi csoport	kisebbség	cigányság
+társadalmi csoport	kisebbség	zsidóság
+társadalmi csoport	kisebbség	fogyatékkal élő
+társadalmi csoport	kisebbség	nemzetiség
+társadalmi csoport	kisebbség	LMBTQ+
+társadalmi csoport	közösség	
+társadalmi csoport	generáció	
+társadalmi csoport	külföldi	
+társadalmi csoport	külföldi	bevándorló
+társadalmi csoport	külföldi	menekült
+társadalmi jelenség		
+társadalmi jelenség	demográfiai folyamat	
+társadalmi jelenség	demográfiai folyamat	migráció
+társadalmi jelenség	beilleszkedés	
+társadalmi jelenség	beilleszkedés	asszimiláció
+társadalmi jelenség	társadalmi kirekesztés	
+társadalmi jelenség	társadalmi kirekesztés	diszkrimináció
+társadalmi jelenség	társadalmi kirekesztés	szegregáció
+társadalmi jelenség	társadalmi részvétel	
+társadalmi jelenség	társadalmi részvétel	civil aktivizmus
+társadalmi jelenség	globalizáció	
+társadalmi rendszer		
+társadalmi rendszer	társadalmi struktúra	
+társadalmi rendszer	társadalmi struktúra	alsóosztály
+társadalmi rendszer	társadalmi struktúra	középosztály
+társadalmi rendszer	társadalmi struktúra	felsőosztály
+társadalmi rendszer	társadalmi struktúra	társadalmi egyenlőtlenség
+társadalmi rendszer	kapitalizmus	
+társadalmi rendszer	szocializmus	
+kapcsolat		
+kapcsolat	személyes kapcsolat	
+kapcsolat	személyes kapcsolat	párkapcsolat
+kapcsolat	csoportok közötti kapcsolat	
+kapcsolat	nemzetközi kapcsolat	
+kapcsolat	ellenség és ellenfél	
+kapcsolat	nevelés	
+kapcsolat	konfliktus	
+kapcsolat	erőszak	
+történelem		
+történelem	történelmi korszak és esemény	
+történelem	történelmi korszak és esemény	háború
+történelem	történelmi korszak és esemény	holokauszt
+történelem	történelmi korszak és esemény	felszabadulás
+történelem	történelmi korszak és esemény	forradalom
+történelem	történelmi korszak és esemény	Horthy-korszak
+történelem	történelmi korszak és esemény	Rákosi-korszak
+történelem	történelmi korszak és esemény	Kádár-korszak
+történelem	történelmi korszak és esemény	rendszerváltás
+történelem	történelmi korszak és esemény	rendszerváltás utáni időszak
+tudomány		
+tudomány	szociológia	
+tudomány	tudományos tevékenység	
+tudomány	tudományos tevékenység	tanulmányút
+tudomány	tudományos esemény	
+tudomány	tudományos közlés	
+válság		
+technológia és innováció		
